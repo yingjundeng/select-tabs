@@ -4,7 +4,7 @@
 ## 实例
 
 See 
-![Screenshot](./src/assets/img/see.png)
+![Screenshot](https://github.com/yingjundeng/select-tabs/tree/master/src/assets/img/see.png)
 ## Project setup
 ```
 yarn install
